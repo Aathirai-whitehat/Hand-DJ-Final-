@@ -1,0 +1,38 @@
+body{
+    background-image: url("background.jpg");
+    font-family: 'Nova Round', cursive;
+}
+
+.heading{
+    width: 100%;
+    color: rgb(240, 16, 240);
+    font-size: 40px;
+    box-shadow: 10px 10px 20px hotpink;
+    background-image: linear-gradient(to right top, #2bc488, #00b3b1, #009dd9, #007fea, #3954d1);
+    margin: 0px;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+}
+
+.note{
+    letter-spacing: normal;
+    word-spacing: normal;
+    color: rgb(0, 255, 255);
+    font-size: 18px;
+}
+
+
+.output{
+    background-color: orchid;
+    color: teal;
+    font-size: 25px;
+    border: 5px ridge rebeccapurple;
+}
+
+
+canvas{
+    border: 5px ridge khaki;
+    box-shadow: 10px 10px 10px lightcoral;
+    border-radius: 20px;
+    margin-top: 50px;
+}
